@@ -1,5 +1,5 @@
 # MultiplayerGame
-This is a **multiplayer hangman game** with an **ingame chat feature** I led a team of 5 other students in designing for our **Intro to Software Engineering** course.
+This is a **multiplayer hangman game** with an **ingame chat feature** my team and I designed for our **Intro to Software Engineering** course.
 
 - 🌱 Players can be **banned** for inappropriate language detected in the chat.
 
